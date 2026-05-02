@@ -8,7 +8,6 @@ the hair material is then flipped to the slick / wet pomaded look you
 know from RDR2 Online.
 
 > **Author:** J0K3R-Scripts
-> **Discord:** <https://discord.gg/DH8tW6vSxV>
 
 ---
 
